@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gomezlsa
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a project
+- 🌱 I’m currently learning Python
 - 📫 How to reach me luisagomez005@gmail.com
 
 <!---
